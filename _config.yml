@@ -1,11 +1,11 @@
 # Site settings
-author: Andrew Alteri
-title: 
+author: Andrew Alteri 
+title: Andrew Alteri's Flatiron blog
 header-img: img/home-bg.png
 email: andrewsalteri@gmail.com
-copyright_name: Andrew Alteri
+copyright_name: Andrew Alteri 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding Adventures
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AndyAtari
