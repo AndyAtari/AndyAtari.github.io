@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Adventures in Coding: CLI Data Gem Project (D&D Style)"
-date:       2020-06-06 16:47:07 +0000
+date:       2020-06-06 12:47:08 -0400
 permalink:  my_adventures_in_coding_cli_data_gem_project_d_and_d_style
 ---
 
