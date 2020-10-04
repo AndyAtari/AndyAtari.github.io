@@ -17,7 +17,9 @@ My personal favorite generator for Starfinder Companion was the swiss army knife
 Perfect, the ship is ready to take off and you now understand all the rails generators! Well not quite. There are numerous generators including ```rails destroy```, which is the opposite of rails generate and will destroy any generation you don’t need anymore, and even custom made generators through ruby gems or your own creation. There is also one other specific generator I used often in my Starfinder app that I would like to share, ```rails g migration```. This handy command will create or alter a table in your database and will automatically assign it a timestamp. Here are some examples of common migrations I used:
 	
 ```rails g migration CreateCharacters name``` - This created a characters table with a name column with a string type.
+
 ```rails g migration AddUserIdToCampaigns user_id:integer``` - This added user_id column with an integer type to the campaigns table.
+
 ```rails g migration RemoveStatusFromCampaigns status:Boolean```  This removed the status column with a Boolean type from the campaigns table.
 	
 As you can see there are many options for generating migrations, and I highly recommend practicing creating tables and altering columns this way to make you a more efficient programmer.
