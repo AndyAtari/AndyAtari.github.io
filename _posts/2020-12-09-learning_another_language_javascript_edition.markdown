@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning Another Language: JavaScript Edition"
-date:       2020-12-09 18:14:43 +0000
+date:       2020-12-09 13:14:44 -0500
 permalink:  learning_another_language_javascript_edition
 ---
 
