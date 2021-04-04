@@ -1,0 +1,18 @@
+---
+layout: post
+title:      "Software Developer and the Holy Grail: Part I "
+date:       2021-04-04 00:48:57 +0000
+permalink:  software_developer_and_the_holy_grail_part_i
+---
+
+
+
+ 
+Let me start off by saying that I think Ruby and Ruby on Rails is great. It’s a nice object-oriented language with easy-to-read syntax. But sometimes it stops working for me. It’s not the language that gives me trouble, but the actual installation of Ruby and Rails that is the culprit. I am still figuring out if it is my OS (yes, I am a Windows user running Ruby), a WSL2 issue, plain bad luck, or all the above. Sometimes my commands stop working and I get strange errors like “You need to install Ruby” followed by “You already have the latest version of Ruby.” So, after the most recent snafu in my Ruby development, I decided to take a break and try out a new language. I wanted to learn a well-documented language with similar syntax to Ruby and, as a bonus, was also named after a famous comedy troupe. Luckily, there is a language that meets all of those requirements: Python.
+
+Python is an immensely popular multi-paradigm programming language created by a Dutchman in the 80s who christened his creation after Monty Python’s comedy troupe. I will not go into the details of Python’s history, as there are many available resources to learn more about the origins of Python and computer programming. But I will tell you about some amazing programs you can create with Python. You can create business enterprise applications that analyze and process data, build dynamic web applications with fast and easy-to-use web frameworks, instantiate machine learning and AI for scientific applications (NASA uses Python!), and build 2D and 3D games (although probably not the next Fortnite). These are just a few examples of use case scenarios for Python. All you really need to know is that Python is a simple yet powerful language that enables people from all backgrounds to start learning computer science.
+
+I have just begun my journey of discovery with Python, but let me share some early impressions of the similarities and differences between Python and Ruby. Let's start with the basics: print(“Hello World”) is the same in both languages. Declaring variables is also similar in that the programmer does not have to declare the data type upfront. The other convenient similarity is that to define a method or function, you just write “def” and then your function. You also do not need to end your lines with those pesky semicolons in either language. A few differences I have noticed so far, that I love, are the debugging methods and how you end a function in Python. You essentially do not end a function in Python. After you define the method and indent the code you want to run, you just stop typing. Seriously, there are no “end” keywords as in Ruby or curly brackets as in JavaScript. The debugging is also quite easy to use and flexible in Python development. A linter, or code analysis, will often display a squiggly line when there is an error in your code, and you can check each line of code by running the Python shell (in Visual Studio Code you just press the big green play button!). So far Python really does live up to the promise of simple yet powerful. 
+
+I am excited to continue this Python path, sharing my experiences with you as I go. In my next post, I will pass along some knowledge of development techniques in Python from the perspective of a Ruby developer switching to a new language. So if you are thinking about switching to Python or are new to coding, come join me on this developer path of the quest of the Holy Grail (aka learning Python)!
+
